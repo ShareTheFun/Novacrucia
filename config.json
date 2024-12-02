@@ -12,7 +12,8 @@
     "TITLE": "NOVACRUCIA"
   },
   "AUTO_UPDATE_CMD": true,
-  "GREETINGS_TEXT": "HI!",
+  "GREETINGS_TEXT": "Welcome to SHOTI!
+Your helpful assistant is here to make life easier. Ask me anything, and I’ll do my best to help. Let’s get started!",
   "selfListen": false,
   "markAsSeen": true
 }
